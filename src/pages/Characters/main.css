@@ -1,0 +1,24 @@
+.filterSide{
+    width: 20%;
+    height: 100%;
+    background-color: #f1f1f1;
+    display: flex;
+    padding: 20px;
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px 0 rgba(0,0,0,0.2);
+}
+.searchSide{
+    width: 20%;
+    height: 100%;
+    background-color: #f1f1f1;
+    display: flex;
+    padding: 20px;
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px 0 rgba(0,0,0,0.2);
+}
